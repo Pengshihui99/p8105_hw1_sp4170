@@ -2,7 +2,7 @@
 title: "p8105_hw1_YOURUNI.Rmd"
 author: "Shihui Peng"
 date: "2023-09-24"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
