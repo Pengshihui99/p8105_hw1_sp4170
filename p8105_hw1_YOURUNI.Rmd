@@ -1,5 +1,5 @@
 ---
-title: "p8105_hw1_YOURUNI.Rmd"
+title: "p8105_hw1_YOURUNI"
 author: "Shihui Peng"
 date: "2023-09-24"
 output: github_document
